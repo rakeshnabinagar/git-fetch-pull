@@ -1,3 +1,5 @@
+
+updated test2
 abc for conflict
 test2
 updated this file
